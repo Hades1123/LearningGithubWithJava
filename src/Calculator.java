@@ -14,7 +14,4 @@ public class Calculator {
         }
         return (double)a / b;
     }
-    public static int square(int a) {
-        return a * a;
-    }
 }
