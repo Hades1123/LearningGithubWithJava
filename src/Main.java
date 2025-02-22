@@ -4,5 +4,6 @@ public class Main {
         System.out.println(Calculator.subtract(1, 2));
         System.out.println(Calculator.multiply(122, 200));
         System.out.println(Calculator.divide(122, 10));
+        System.out.println(Calculator.square(122));
     }
 }
